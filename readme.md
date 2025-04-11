@@ -19,7 +19,7 @@ git add -A                  # Add all files
 
 1. Create a new repository on GitHub.
     - ``` git init```
-2. Create an add an ignore file
+2. Create and add an ignore file
    - ``` touch .gitignore```
    - ``` git add .gitignore```
 3. Commit the changes
