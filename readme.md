@@ -12,6 +12,7 @@ git log
 git remote add origin <url>
 git branch
 git checkout -b <branch_name>
+git merge <branch_name>
 ``` 
 
 ## First Time Setup Process
@@ -31,5 +32,6 @@ git checkout -b <branch_name>
 Continuing to use Git Notes
    - ``` git add -A```
    - ``` git commit -m "message"```
+   - ``` git merge <branch_name>```
    - ``` git push origin <branch_name>```
 
