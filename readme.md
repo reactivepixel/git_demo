@@ -6,14 +6,14 @@ Git Demo
 git init
 git status
 git add <file>
+git add -A 
 git commit -m "message"
 git log
 git remote add origin <url>
+git branch
+git checkout -b <branch_name>
+git merge <branch_name>
 ``` 
-Common Commands
-```
-git add -A                  # Add all files
-```
 
 ## First Time Setup Process
 
@@ -32,4 +32,6 @@ git add -A                  # Add all files
 Continuing to use Git Notes
    - ``` git add -A```
    - ``` git commit -m "message"```
+   - ``` git merge <branch_name>```
    - ``` git push origin <branch_name>```
+
